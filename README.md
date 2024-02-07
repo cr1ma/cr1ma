@@ -14,8 +14,7 @@ My main focus is combining technical expertise and creative vision to create uni
 ### 🤝 **Social media:**
   <div id="badges">
     <a href="https://discord.com/users/394557766678740992" target="_blank">
-      <img src="
-      https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="40" height="40" alt="linkedin" />
+      <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="40" height="40" alt="discord" />
     </a>
   </div>
 
