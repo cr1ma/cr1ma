@@ -23,34 +23,17 @@ My main focus is combining technical expertise and creative vision to create uni
 
 ## 💻 **Technologies and tools:**
 
-### Video and Animation
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968428.png" title="After Effects" alt="After Effects" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968489.png" title="Media Encoder" alt="Media Encoder" width="40" height="40"/>&nbsp;
-</div>
-
-### Design and UI/UX
-<div>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-</div>
-
-### 3D Modeling and Rendering
-<div>
   <img src="https://media.graphassets.com/B8hDILAISampfm5yFOQA" title="Unreal Engine 5" alt="Unreal Engine 5" width="40" height="40"/>&nbsp;
   <img src="https://download.blender.org/branding/blender_logo_socket.png" title="Blender" alt="Blender" width="120" height="43"/>&nbsp;
-</div>
-
-### Development
-<div>
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</div>
-
-### Artificial intelligence
-<div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="OpenAI" alt="OpenAI" width="40" height="40"/>&nbsp;
   <img src="https://th.bing.com/th/id/OIP.ZV3jEo5mo_TY_JaOd2Q32AHaHa?rs=1&pid=ImgDetMain" title="Midjourney" alt="Midjourney" width="40" height="40"/>&nbsp;    
   <img src="https://cdn-icons-png.flaticon.com/512/888/888835.png" title="Adobe Firefly" alt="Adobe Firefly" width="40" height="40"/>&nbsp;
