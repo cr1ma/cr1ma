@@ -1,5 +1,7 @@
 # Hi there, I`m   **O l e x a n d e r .**
 
+![Hi there](/images/hi-there.png)
+
 ### 👨‍💻 **About me:**
 Hi, I'm **Olexander** from Ukraine and I'm passionate about digital design, graphics and video editing. My creative journey started with visual storytelling, learning **Adobe** and **Figma** programs, but my great passion for design led me to learn **Unreal Engine 5** and **Blender** to push the boundaries of my creativity in 3D modeling and animation.
 
