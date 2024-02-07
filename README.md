@@ -40,7 +40,7 @@ My main focus is combining technical expertise and creative vision to create uni
   <img src="https://download.blender.org/branding/blender_logo_socket.png" title="Blender" alt="Blender" width="120" height="43"/>&nbsp;
 </div>
 
-### Develop
+### Development
 <div>
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
