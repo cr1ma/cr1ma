@@ -11,14 +11,6 @@ My main focus is combining technical expertise and creative vision to create uni
 
 ---
 
-### 🤝 **Social media:**
-  <div id="badges">
-    <a href="https://discord.com/users/394557766678740992" target="_blank">
-      <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="40" height="40" alt="discord" />
-    </a>
-  </div>
-
-
 ## 💻 **Technologies and tools:**
 
 <div>
@@ -36,6 +28,14 @@ My main focus is combining technical expertise and creative vision to create uni
   <img src="https://th.bing.com/th/id/OIP.ZV3jEo5mo_TY_JaOd2Q32AHaHa?rs=1&pid=ImgDetMain" title="Midjourney" alt="Midjourney" width="40" height="40"/>&nbsp;    
   <img src="https://cdn-icons-png.flaticon.com/512/888/888835.png" title="Adobe Firefly" alt="Adobe Firefly" width="40" height="40"/>&nbsp;
 </div>
+
+### 🤝 **Social media:**
+
+  <div id="badges">
+    <a href="https://discord.com/users/394557766678740992" target="_blank">
+      <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="40" height="40" alt="discord" />
+    </a>
+  </div>
 
 ---
 
