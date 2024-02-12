@@ -1,7 +1,7 @@
-![Hi there, I`m   **O l e x a n d e r .](/images/hi-there.png)
+![Hi there, I`m   **O l e k s a n d r .](/images/hi-there.png)
 
 ### 👨‍💻 **About me:**
-Hi, I'm **Olexander** from Ukraine and I'm passionate about digital design, graphics and video editing. My creative journey started with visual storytelling, learning **Adobe** and **Figma** programs, but my great passion for design led me to learn **Unreal Engine 5** and **Blender** to push the boundaries of my creativity in 3D modeling and animation.
+Hi, I'm **Oleksandr** from Ukraine and I'm passionate about digital design, graphics and video editing. My creative journey started with visual storytelling, learning **Adobe** and **Figma** programs, but my great passion for design led me to learn **Unreal Engine 5** and **Blender** to push the boundaries of my creativity in 3D modeling and animation.
 
 Recently, I discovered my passion for programming and started learning Python, which opened up a new world of possibilities. Since then, I have developed **more than 10 custom projects**, mostly Telegram bots, which not only solve real problems but also bring joy and convenience to their users. Each project is a chance for me to improve myself and contribute to the community. My main focus is combining technical expertise and creative vision to create unique and functional solutions. I'm constantly looking for new challenges and opportunities for development, whether through my own projects or through collaboration with like-minded people.
 
