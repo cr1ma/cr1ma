@@ -27,22 +27,15 @@ Recently, I discovered my passion for programming and started learning Python, w
   <img src="https://cdn-icons-png.flaticon.com/512/888/888835.png" title="Adobe Firefly" alt="Adobe Firefly" width="40" height="40"/>&nbsp;
 </div>
 
-### 🤝 **Social media:**
-
-  <div id="badges">
-    <a href="https://discord.com/users/394557766678740992" target="_blank">
-      <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="40" height="40" alt="discord" />
-    </a>
-  </div>
-
 ---
 
 ### 💎 **Projects:**
 
 | Projects                                                         | Link              |
 | ---------------------------------------------------------------- | :---------------: |
-| єРозклад                                                         | [Telegram](https://t.me/erozklad_bot) |
-| Психологічна допомога                                            | dev/null |
+| єРозклад (including an API for it)                               | [Telegram](https://t.me/erozklad_bot) |
+| NeuroCommit                                                      | [NeuroCommit](https://cr1ma.github.io/neuro-commit/) |
+| Психологічна допомога                                            | NDA |
 
 * *Most of the projects are not public, so they are not on this list*
 
